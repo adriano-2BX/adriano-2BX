@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Olá, eu sou Adriano Oliveira!
+Bem-vindo ao meu perfil no GitHub! 🚀 Sou um desenvolvedor apaixonado por criar soluções inovadoras na 2BX, onde trabalho com automação de processos complexos e inteligência artificial para otimizar fluxos de trabalho e impulsionar resultados. Meu objetivo é transformar desafios em oportunidades através de código eficiente e ideias criativas.
 
-<!--
-**adriano-2BX/adriano-2BX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Sobre Mim
 
-Here are some ideas to get you started:
+🔭 Atualmente, estou desenvolvendo soluções de automação e IA na 2BX, focando em otimização de processos empresariais.
+💡 Apaixonado por inteligência artificial, otimização de sistemas e tecnologias escaláveis.
+📫 Quer trocar ideias ou colaborar? Me encontre em LinkedIn ou adriano@example.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Vamos nos Conectar!
+
+💼 LinkedIn
+📧 E-mail
+🌐 [Portfólio](https://[seu-site], se aplicável)
+
