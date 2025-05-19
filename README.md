@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! 🚀 Sou um desenvolvedor apaixonado por cria
 ## 🌟 Sobre Mim
 - 🔭 Atualmente, estou desenvolvendo soluções de automação e IA na **2BX**, focando em otimização de processos empresariais.
 - 💡 Apaixonado por **inteligência artificial**, **otimização de sistemas** e **tecnologias escaláveis**.
-- 📫 Quer trocar ideias ou colaborar? Me encontre em [LinkedIn](https://www.linkedin.com/in/adriano-oliveira) ou [adriano@example.com](mailto:adriano@example.com).
+- 📫 Quer trocar ideias ou colaborar?
 
 
 
